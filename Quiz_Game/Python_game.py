@@ -53,4 +53,4 @@ while True:
 print(f"Your final score is {score}!\n\n")
 print("Want to know the correct answers? Please see them below! ;)\n")
 print_dictionary()
-print("Thanks for playing! 💜")
+print("Thanks for playing the Python game! 💜")
