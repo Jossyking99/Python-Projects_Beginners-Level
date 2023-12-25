@@ -25,8 +25,8 @@ def intro_message():
     Introduces user to the quiz and rules, and takes an input from customer to start the quiz.
     Returns true regardless of any key pressed.
     """
-    print("Welcome to this fun food quiz! \nAre you ready to test your knowledge about food?")
-    print("There are a total of 20 questions, you can skip a question anytime by typing 'skip'")
+    print("Welcome to this python quiz! \nAre you ready to test your knowledge about on Python?")
+    print("There are a total of 8 questions, you can skip a question anytime by typing 'skip'")
     input("Press any key to start the fun ;) ")
     return True
 
