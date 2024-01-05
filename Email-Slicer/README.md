@@ -1,0 +1,1 @@
+This Python script is designed to extract the username and domain from an email address entered by the user
