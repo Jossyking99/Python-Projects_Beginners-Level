@@ -1,3 +1,4 @@
+#
 email = input ("Ënter Your Email: ").strip()
 
 username = email[: email.index('@')]
