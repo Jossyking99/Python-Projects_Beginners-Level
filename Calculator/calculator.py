@@ -1,4 +1,4 @@
-# A simple calculator that performs basic arithmetic operations
+# This is a simple calculator that performs basic arithmetic operations
 
 def execute(a, b, choice):
     '''perfoms the arithmetic operation based on the user's choice'''
@@ -48,7 +48,7 @@ def quit(response):
 
 
 while True:
-    print('\nPERFORM SIMPLE CALCULATIONS')
+    print('\nSIMPLE ARITHMETIC CALCULATOR')
     a = input('Enter the first number: ')
     if not is_valid(a):
         print('Calculator stopped')
