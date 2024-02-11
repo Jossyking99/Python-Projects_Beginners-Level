@@ -60,7 +60,7 @@ while True:
         break
 
     operand = input(
-        f'Pick an number:\n1 for {a} + {b}\n2 for {a} - {b}\n3 for {a} × {b}\n4 for {a} ÷ {b}\nYour choice: ')
+        f'Pick a number:\n1 for {a} + {b}\n2 for {a} - {b}\n3 for {a} × {b}\n4 for {a} ÷ {b}\nYour choice: ')
 
     if not valid_choice(operand):
         print(f'"{operand}" is not a valid choice. Only "1, 2, 3, 4" are allowed\n Calculator stopped')
